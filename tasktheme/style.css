@@ -1,0 +1,50 @@
+/*
+Theme Name: tasktheme
+Author: Eric
+Description: Theme for task
+Version: 1
+*/
+
+body 
+{
+	font-size: 14px;
+	background-color: #C0C0C0;
+}
+.article_group
+{
+	background-color: white;
+	padding :20px;
+	
+}
+#form_prop
+{
+	padding:15px;
+	background-color: white;
+	
+}
+#form_prop input, textarea
+{
+	border-radius: 5px;
+}
+#form_prop_submit
+{
+	background-color: #ADD8E6;
+}
+#lower_container
+{
+	margin-top:30px;
+}
+#search_input
+{
+    width: 200px;
+    padding-right: 50px;
+}
+
+#search_btn
+{
+    margin-left: -50px;
+    height: auto;
+    width: 50px;
+}
+
+
